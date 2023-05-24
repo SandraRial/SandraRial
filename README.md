@@ -8,7 +8,7 @@
   
 
 <h3> Skills </h3>
-<p>
+<p align="center">
     <img alt="Javascript" src="https://img.shields.io/badge/Javascript-____-yellow" />
     <img alt="Typescript" src="https://img.shields.io/badge/Typescript-____-informational" />
     <img alt="React" src="https://img.shields.io/badge/React-____-informational" />
